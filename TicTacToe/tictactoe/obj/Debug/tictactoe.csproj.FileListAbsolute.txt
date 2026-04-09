@@ -1,0 +1,16 @@
+C:\Users\25jwh\Videos\tictactoe-perfect-ai-no-point-depth\tictactoe\bin\Debug\tictactoe.exe
+C:\Users\25jwh\Videos\tictactoe-perfect-ai-no-point-depth\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\25jwh\Videos\tictactoe-perfect-ai-no-point-depth\tictactoe\obj\Debug\tictactoe.csproj.AssemblyReference.cache
+C:\Users\25jwh\Videos\tictactoe-perfect-ai-no-point-depth\tictactoe\obj\Debug\tictactoe.Form1.resources
+C:\Users\25jwh\Videos\tictactoe-perfect-ai-no-point-depth\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+C:\Users\25jwh\Videos\tictactoe-perfect-ai-no-point-depth\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\25jwh\Videos\tictactoe-perfect-ai-no-point-depth\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\25jwh\Videos\tictactoe-perfect-ai-no-point-depth\tictactoe\obj\Debug\tictactoe.pdb
+C:\Users\25jwh\Videos\TicTacToe\tictactoe\bin\Debug\tictactoe.exe
+C:\Users\25jwh\Videos\TicTacToe\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\25jwh\Videos\TicTacToe\tictactoe\obj\Debug\tictactoe.csproj.AssemblyReference.cache
+C:\Users\25jwh\Videos\TicTacToe\tictactoe\obj\Debug\tictactoe.Form1.resources
+C:\Users\25jwh\Videos\TicTacToe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+C:\Users\25jwh\Videos\TicTacToe\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\25jwh\Videos\TicTacToe\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\25jwh\Videos\TicTacToe\tictactoe\obj\Debug\tictactoe.pdb
